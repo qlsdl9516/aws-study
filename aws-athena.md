@@ -2,7 +2,7 @@
 
 **Athena 개념**
 - ANSI SQL를 사용하여 Amazon S3에 있는 데이터를 직접 간편하게 분석할 수 있는 대화형 쿼리 서비스
-> ANSI SQL  
+> **ANSI SQL**  
   DBMS(Oracle, MySQL 등)들이 각기 다른 SQL을 사용하므로, 미국 표준협회(American National Standards Institute)에서 이를 표준화하여 표준 SQL문을 정립 시켜놓은 것
   
 **Athena 특징**
